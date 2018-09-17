@@ -4,7 +4,7 @@
         id        = "io.mxapps.casacentral"
         version   = "0.0.8" >
 
-    <name>CASA Central</name>
+    <name>CASA Central Local</name>
 
     <description></description>
 
